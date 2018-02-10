@@ -1,0 +1,10 @@
+ul {
+
+}
+ul#todo-list {}
+ul#todo-list li {list-style-type: square;}
+ul#todo-list li.very-important {color: #ff0000;}
+ul#todo-list li.important {color: #ff4c4c;}
+ul#todo-list li.middle-important {color: #fbb034;}
+ul#todo-list li.light-important {color: #c1d82f;}
+ul#todo-list li.low-important {color: #6a737b;}
